@@ -64,7 +64,7 @@ const Hero = () => {
             </motion.div>
 
             <motion.div variants={itemVariants} className="flex space-x-5">
-              <a href="https://github.com/pratiksha" target="_blank" rel="noopener noreferrer" className="text-text-secondary hover:text-accent transition-colors" aria-label="GitHub">
+              <a href="https://github.com/pratikshapatil146" target="_blank" rel="noopener noreferrer" className="text-text-secondary hover:text-accent transition-colors" aria-label="GitHub">
                 <FiGithub size={24} />
               </a>
               <a href="https://www.linkedin.com/in/pratiksha-patil-718b2a159" target="_blank" rel="noopener noreferrer" className="text-text-secondary hover:text-accent transition-colors" aria-label="LinkedIn">

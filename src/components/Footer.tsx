@@ -22,7 +22,7 @@ const Footer = () => {
           </button>
 
           <div className="flex space-x-6 mb-6">
-            <a href="https://github.com/pratiksha" target="_blank" rel="noopener noreferrer" className="text-text-secondary hover:text-accent transition-colors" aria-label="GitHub">
+            <a href="https://github.com/pratikshapatil146" target="_blank" rel="noopener noreferrer" className="text-text-secondary hover:text-accent transition-colors" aria-label="GitHub">
               <FiGithub size={20} />
             </a>
             <a href="https://www.linkedin.com/in/pratiksha-patil-718b2a159" target="_blank" rel="noopener noreferrer" className="text-text-secondary hover:text-accent transition-colors" aria-label="LinkedIn">
@@ -32,7 +32,7 @@ const Footer = () => {
               <FiMail size={20} />
             </a>
           </div>
-          
+
           <div className="text-center">
             <p className="text-text-secondary mb-2">
               Designed & Built by Pratiksha Patil
